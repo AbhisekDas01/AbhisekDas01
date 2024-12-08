@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning DSA using C & C++
+
 
 
 ## 🌐 Socials:
