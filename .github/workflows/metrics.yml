@@ -1,0 +1,38 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:        # Allows manual triggering from the Actions tab
+  push:
+    branches: [main]        # Also runs on every push to main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate stats card
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AbhisekDas01
+          filename: assets/github-stats.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+
+      - name: Generate top languages card
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AbhisekDas01
+          filename: assets/top-langs.svg
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          config_timezone: Asia/Kolkata

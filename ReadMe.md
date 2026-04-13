@@ -87,10 +87,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AbhisekDas01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" width="400"/>
+      <img src="assets/github-stats.svg" alt="GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekDas01&theme=tokyonight&hide_border=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" width="340"/>
+      <img src="assets/top-langs.svg" alt="Top Languages" width="340"/>
     </td>
   </tr>
 </table>
