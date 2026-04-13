@@ -28,6 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisekdas01)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhisekDas01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AbhisekDas01/)
 
 </div>
 
@@ -129,6 +130,16 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekDas01&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="320"/></td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/AbhisekDas01?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
 
 </div>
 
