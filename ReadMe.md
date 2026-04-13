@@ -95,7 +95,7 @@
   </tr>
 </table>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbhisekDas01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=AbhisekDas01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
 
 </div>
 
