@@ -33,27 +33,45 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-**Languages**
+**🔤 Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript%20ES6+-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
+**🧠 CS Fundamentals**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300b4d8.svg?style=for-the-badge)
+![OOPs](https://img.shields.io/badge/Object--Oriented%20Programming-%236a0dad.svg?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-%23555555.svg?style=for-the-badge&logo=linux&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-%23f4a261.svg?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-%230077b6.svg?style=for-the-badge)
+
+**🌐 Web Technologies**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20APIs-%23FF6B35.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Tools & Version Control**
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**⚙️ Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -63,14 +81,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhisekDas01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekDas01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AbhisekDas01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekDas01&theme=tokyonight&hide_border=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" width="340"/>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=AbhisekDas01&theme=tokyonight&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=AbhisekDas01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
 
 </div>
 
