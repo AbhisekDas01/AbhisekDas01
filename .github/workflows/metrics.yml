@@ -36,3 +36,16 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           config_timezone: Asia/Kolkata
+
+      - name: Generate achievements / trophies card
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AbhisekDas01
+          filename: assets/trophies.svg
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          config_timezone: Asia/Kolkata

@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhisekDas01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6" alt="GitHub Trophies" width="800"/>
+<img src="assets/trophies.svg" alt="GitHub Trophies" width="800"/>
 
 </div>
 
