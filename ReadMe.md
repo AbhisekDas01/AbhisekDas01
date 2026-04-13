@@ -80,6 +80,36 @@
 
 ---
 
+## 📈 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AbhisekDas01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Abhisek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhisekDas01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/AbhisekDas01?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 👁️ Profile Views
