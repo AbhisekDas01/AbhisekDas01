@@ -102,7 +102,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=AbhisekDas01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=AbhisekDas01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6" alt="GitHub Trophies" width="800"/>
 
 </div>
 
@@ -122,7 +122,13 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=AbhisekDas01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekDas01&theme=tokyonight" alt="Repos Per Language" width="320"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhisekDas01&theme=tokyonight" alt="Most Commit Language" width="320"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekDas01&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="320"/></td>
+  </tr>
+</table>
 
 </div>
 
