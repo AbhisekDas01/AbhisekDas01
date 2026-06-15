@@ -11,7 +11,7 @@ I specialize in bridging the gap between low-level systems programming and moder
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,ts,js,sql,nodejs,express,react,nextjs,tailwind,mongodb,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,ts,js q,nodejs,express,react,nextjs,tailwind,mongodb,postgres,docker,git" />
 </a>
 
 <br/><br/>
